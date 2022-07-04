@@ -1,0 +1,7 @@
+body input{
+    padding: 13px 20px;
+}
+button{
+    padding: 13px 20px;
+    cursor: pointer;
+}
